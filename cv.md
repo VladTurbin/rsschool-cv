@@ -4,6 +4,7 @@
 + **Location:** Pavlodar, Kazakhstan
 + **Phone:** +7 700 980-68-90
 + **E-mail:** vladwantednotes@mail.ru
++ **Github:** VladTurbin
 ## About me
 I love to develop and acquire new skills, and I will be very happy to devote all my free time to study. I am ready to work in a team and provide support to my colleagues.
 ## My skills
